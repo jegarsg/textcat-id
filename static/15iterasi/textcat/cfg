@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "POSITIVE",
+    "NEGATIVE",
+    "NEUTRAL"
+  ],
+  "pretrained_vectors":null
+}
